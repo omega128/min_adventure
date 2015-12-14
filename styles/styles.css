@@ -1,0 +1,87 @@
+body {
+  background: rgb(245, 245, 245);
+  color: black;
+}
+
+#authentication_bar {
+  background: black;
+  color: white;
+  margin-bottom: 2em;
+  padding: 1em;
+}
+
+#authentication_bar a {
+  color: white;
+}
+
+#container {
+  width: 940px;
+  margin: 0 auto;
+  padding: 0em 0em;
+  
+  background: white;
+  color: black;
+  border: 3px solid black;
+}
+
+header {
+  background: white;
+  color: black;
+}
+
+section {
+  padding: 2em;  
+}
+
+footer {
+  margin-right: 1em;
+  text-align: right;
+  color: black;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+h1 {
+  padding: 1em;
+  margin: 0em;
+  background: black;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  margin: 1em;
+}
+
+#container section a {
+  color: black;
+}
+
+table {
+  padding: 1em;
+  width: 100%;
+  border: 3px solid black;
+}
+
+table tr th {
+  background: black;
+  color: white;
+}
+
+form input {
+  padding: 0.5em;
+  border: 1px solid black;
+  background: white;
+}
+
+form textarea {
+  border: 2px solid black;
+  width: 100%;
+}
+
+a img {
+  border: none;
+}
